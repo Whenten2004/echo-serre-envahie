@@ -4,7 +4,7 @@ Product Owner : Camille C.
 
 Scrum Master : Candice Mourette
 
-Développeur 1 : Salomé D.
+Développeur 1 : Salomé Damo
 
 Développeur 2 : Nathan N.
 
