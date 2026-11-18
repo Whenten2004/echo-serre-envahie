@@ -19,7 +19,7 @@ git lfs install AVANT le clone, sinon les assets arrivent
 sous forme de pointeurs de texte et non de fichiers binaires.
 
 ## Conventions
-FBX : <nom-de-l'element>_V<x>
+FBX : <nom-de-l'element>_V<numéro-version>
 COMMIT : feat <élément>,
 art <élément>,
 fix <élément>,
