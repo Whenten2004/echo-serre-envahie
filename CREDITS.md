@@ -1,4 +1,4 @@
-# \# Crédits - Studio ÉCHOSSS
+# \# Crédits - Studio ÉCHO DE LUDEN
 
 Product Owner : Camille C.
 
