@@ -1,5 +1,5 @@
 # echo-serre-envahie
-# ÉCHO - <serre envahie>
+# ÉCHO - Serre envahie
 
 ## Le projet
 Un diorama d'une serre de plantes détériorée. Objectif SPRINT : Réaliser la totalité des assets 3D.
@@ -19,10 +19,10 @@ git lfs install AVANT le clone, sinon les assets arrivent
 sous forme de pointeurs de texte et non de fichiers binaires.
 
 ## Conventions
-FBX : <nom-de-l'element>_V<x>.fbx
-COMMIT : feat_<élément>
-        art_<élément> 
-        fix_<élément>
-       docs_<élément>
-       chore_<élément>
-BRANCHE : <nom-de_l'élément>_<objectif>
+FBX : <nom-de-l'element>_V<x>
+COMMIT : feat <élément>,
+art <élément>,
+fix <élément>,
+docs <élément>,
+chore <élément>
+BRANCHE : <nom-de-l'élément>_<objectif>
