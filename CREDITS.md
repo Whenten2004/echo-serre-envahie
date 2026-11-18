@@ -1,4 +1,4 @@
-# \# Crédits - Studio ÉCHOSSS
+# \# Crédits - Studio ÉCHOSS 1
 
 Product Owner : Camille C.
 
